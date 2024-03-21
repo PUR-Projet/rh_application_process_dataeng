@@ -29,7 +29,7 @@ Once you have completed the exercise, follow these guidelines for submission:
 ## Creating and accessing your virtual environment 
 1. Make sure you have a python version higher or equal than 3.8. We won't accept code from a lower version.
 2. Using a terminal, type the command: `python -m venv venv`
-3. If using VS Code, find below some indications on how to activate your virtual env in the Jupyter Notebook (but feel free to use the IDE of your chocie to interact with Jupyter Notebook).
+3. If using VS Code, find below some indications on how to activate your virtual env in the Jupyter Notebook (but feel free to use the IDE of your choice to interact with Jupyter Notebook).
 
 <br />
 <img src=".screenshots/1.png" width="500"/>
