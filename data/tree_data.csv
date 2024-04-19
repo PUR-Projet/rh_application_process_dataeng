@@ -1,4 +1,4 @@
-longitude,latitude,size_height,size_width,tree_species,farmer_first_name,farmer_last_name,farmer_national_id,parcel_id,parcel_area,plantation_timestamp,farmer_birthday,species_latin_name
+longitude,latitude,size_height,size_width,tree_species,farmer_first_name,farmer_last_name,farmer_national_id,parcel_id,parcel_area,created_at,farmer_birthday,species_latin_name
 -70.656531,-11.534821,19.29,,Palm,Luis,Martinez,902301226267571442,4f2cd9d6-5db6-5081-92a5-517f1b92949a,173.78,2024-03-04 20:19:08,,Arecaceae
 -70.749857,-11.464434,16.77,99.21,Maple,Alejandro,Lopez,4518066197634485419,13f5fcaa-6a0f-5fea-b1b1-7de916e89f62,191.51,2024-03-14 11:32:40,,Acer
 -70.525871,-11.496938,33.31,163.69,Oak,Ana,Lopez,6181705172969536148,30637841-124b-5a8a-981c-b1edb326908f,73.08,2024-03-11 22:33:08,,Quercus
